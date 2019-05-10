@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/datalot/static/css/main.7e45d3cd.chunk.css",
+    "main.js": "/datalot/static/js/main.c9bbc007.chunk.js",
+    "main.js.map": "/datalot/static/js/main.c9bbc007.chunk.js.map",
+    "runtime~main.js": "/datalot/static/js/runtime~main.6cab0514.js",
+    "runtime~main.js.map": "/datalot/static/js/runtime~main.6cab0514.js.map",
+    "static/css/2.266e55a5.chunk.css": "/datalot/static/css/2.266e55a5.chunk.css",
+    "static/js/2.41e73633.chunk.js": "/datalot/static/js/2.41e73633.chunk.js",
+    "static/js/2.41e73633.chunk.js.map": "/datalot/static/js/2.41e73633.chunk.js.map",
+    "index.html": "/datalot/index.html",
+    "precache-manifest.bb0290a10a34e03c690ad66b241083d9.js": "/datalot/precache-manifest.bb0290a10a34e03c690ad66b241083d9.js",
+    "service-worker.js": "/datalot/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/datalot/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.7e45d3cd.chunk.css.map": "/datalot/static/css/main.7e45d3cd.chunk.css.map",
+    "static/media/App.css": "/datalot/static/media/bg.ae4e98e5.jpg",
+    "static/media/cars.jpg": "/datalot/static/media/cars.b7a43e5b.jpg"
+  }
+}
