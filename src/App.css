@@ -1,33 +1,100 @@
-.App {
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+.container {
+  margin-top: 25px;
+}
+
+#rates-main {
+  font-size: 70px;
+  color: #ffffff;
+  text-shadow: 1px 1px 2px black;
+}
+
+#rates-sub {
+  font-size: 35px;
+  color: #FBE14C;
+  margin: auto;
+}
+
+#form-main {
+  margin: auto;
+}
+
+#form {
+  background-color: #ffffff;
+  margin: auto;
+  width: 20vw;
+  height: auto;
+  padding: 20px;
+  border-radius: 25px;
+}
+
+#form-head {
+  font-size: 25px;
+}
+
+#zip {
+  font-size: 20px;
+  padding: 10px 20px;
+  width: 100%;
+  margin: auto;
+}
+
+#insured {
+  font-size: 20px;
+  padding: 10px 20px;
+  width: 100%;
+  margin: auto;
+}
+
+#age {
+  font-size: 20px;
+  padding: 10px 20px;
+  width: 100%;
+  margin: auto;
+}
+
+#btn {
+  font-family: fira, sans-serif;
+  color: #ffffff;
+  background-color: #D22C1F;
+  font-size: 20px;
+  padding: 14px 40px;
+  width: 100%;
+  margin: auto;
+}
+
+#secure-txt {
+  color: #968787;
+  margin: auto;
+}
+
+#modal {
+  z-index: 100;
+  position: fixed;
+  background-color: #ffffff;
+  top: 30vh;
+  left: 33%;
+  width: 25vw;
+  padding: 5px;
+  border-radius: 25px;
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+#bullet {
+  margin-bottom: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+#cars {
+  background-image: url("cars.jpg");
 }
 
-.App-link {
-  color: #61dafb;
+#banner {
+  margin-bottom: 15vh;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  background-image: url("bg.jpg");
+  background-size: 100vw 65vh;
+  background-repeat: no-repeat;
 }
